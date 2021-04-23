@@ -12,6 +12,7 @@ export default function LandingPage() {
       <Text style={styles.title}>Chippewas of Georgina Island Barge Tracking App</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
       <Text style={styles.title2}>Are you a member of Chippewas of Georgina Island Community and reside on the island?</Text>
+      <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
       <View style={styles.buttonContainer}>
         <Button style={styles.buttons} rounded>
               <Text>Yes</Text>
